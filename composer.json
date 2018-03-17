@@ -1,0 +1,10 @@
+{
+  "require": {
+	"sendgrid/sendgrid": "*",
+	"aws/aws-sdk-php": "*",
+	"doctrine/cache": "*",
+	"aws/aws-php-sns-message-validator" :"*",
+	"symfony/dependency-injection": "*",
+	"symfony/http-kernel": "*"
+  }
+}
